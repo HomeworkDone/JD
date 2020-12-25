@@ -1,2 +1,2 @@
 # JD
-[demo](https://homeworkdone.github.io/JD/+"jd.html)
+[demo](https://homeworkdone.github.io/JD/+"test/html/jd.html)
