@@ -13,6 +13,9 @@ body{
     line-height: 1.5;
     color: #666;
     //padding-bottom: env(safe-area-inset-bottom);
+    &:last-child{
+        margin-bottom: 49.98rem / @baseFont;
+    }
 }
 @baseFont: 5.33333*3.75;
 .top-nav{
@@ -223,7 +226,6 @@ body{
 }
 
 #xr-img{
-    margin-bottom: 49.98rem / @baseFont;
     margin-top: 0.5rem;
     a{
         img{
